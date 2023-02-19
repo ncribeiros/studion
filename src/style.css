@@ -18,11 +18,11 @@ body {
   padding-top: 7.75rem;
 }
 
-header,
+/*header,
 main,
 footer {
   overflow-x: hidden;
-}
+}*/
 
 .container {
   max-width: 1140px;
